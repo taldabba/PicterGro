@@ -5,3 +5,4 @@ PicterGro was designed for a robot design challenge hosted by PTC Waterloo in th
 
 # The Inital Ideas and Sketches
 
+<img src="images/sketch1.png" width="100">
