@@ -10,7 +10,7 @@ p {
 # Introducing PicterGro
 PicterGro is an automated robot to serve the Earth and the enviroment! <br>
 This was designed for a robot design challenge hosted by PTC Waterloo in the Robotics Rebooted event. <br>
-This design took appoximately 10 hours to complete on Fusion 360, and PicterGro won first prize for the challenge! <br>
+This design took appoximately 10 hours to complete on Fusion 360, and PicterGro won first prize for the challenge! <br><br>
 ![pictergro-revolve](images/pictergro-spin.gif)
  
 # How PicterGro works
