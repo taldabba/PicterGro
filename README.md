@@ -4,7 +4,7 @@ This was designed for a robot design challenge hosted by PTC Waterloo in the Rob
 This design took appoximately 10 hours to complete on Fusion 360, and PicterGro won first prize for the challenge! <br><br>
 ![pictergro-revolve](images/pictergro-spin.gif)
  
-# How PicterGro works
+# How PicterGro Works
 There are 3 main functions of PicterGro: <br>
 1. Picking fruit / vegetables / plants
 2. Planting trees
@@ -24,7 +24,7 @@ https://docs.google.com/presentation/d/1rZMRSgZxJUn-KpXbrpccTkQAfvvW1_FMM-mFlaCC
 [![Mechanism Demo](https://img.youtube.com/vi/KYv3w1Pnx6c/0.jpg)](https://www.youtube.com/watch?v=KYv3w1Pnx6c) <br>
 [![Website Demo](https://img.youtube.com/vi/GkVJrcjmVm4/0.jpg)](https://www.youtube.com/watch?v=GkVJrcjmVm4)
 
-# The Inital Ideas and Sketches
+# The Initial Ideas and Sketches
 <img src="images/sketch1.png" width="800">
 <img src="images/sketch2.png" width="800">
 
